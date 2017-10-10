@@ -34,4 +34,13 @@ p {
 	font-size: 2em;
 }
 
+#elephant {
+	height: 500px;
+	width: 80%;
+	margin: 0 auto 0 auto;
+	background-image: url(../images/elephant.jpg);
+	border-radius: 5px;
+	margin-bottom: 40px;
+}
+
 
